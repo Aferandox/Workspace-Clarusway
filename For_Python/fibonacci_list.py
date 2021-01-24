@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 24 03:31:33 2021
 
-@author: Deniz
+@author: 7169-Deniz
 """
 
 fibonacci_list = []
